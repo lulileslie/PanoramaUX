@@ -1,0 +1,15 @@
+---
+title: "Panorama UX 2020"
+description: |
+  Resultados da pesquisa PanoramaUX 2020
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+

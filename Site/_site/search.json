@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-31T17:41:10-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Panorama UX 2020",
+      "description": "Resultados da pesquisa PanoramaUX 2020\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-31T17:50:02-03:00"
+    }
+  ],
+  "collections": []
+}
